@@ -3,9 +3,10 @@ div.column {
   width: 200%;
 }
 
-div.row {
-  height: 300px;
-  width: 250px;
+.row .column {
+  height: 700px;
+  width: 350px;
+  float:left;
 }
 
 div.col1{
