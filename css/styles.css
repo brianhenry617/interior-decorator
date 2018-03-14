@@ -1,0 +1,32 @@
+div.column {
+  height: 100%;
+  width: 200%;
+}
+
+div.row {
+  height: 300px;
+  width: 250px;
+}
+
+div.col1{
+  background-image: url("https://i.pinimg.com/originals/19/cd/a8/19cda80e3a0a30e2ea41acaa6e7ec65d.jpg");
+
+}
+
+div.col2{
+  background-image: url("http://www.ivconstruction.net/images/New-Construction/interior-framed-a-frame.jpg");
+}
+
+div.col3{
+  background-image: url("http://www.drkarchitects.com/assets/alluring-hotel-lobby-furniture-remodelling-furniture-design-for-hotel-lob-interior-various.jpg");
+}
+
+div.column h1 {
+  font-size: 70px;
+  font-family: sans sans-serif;
+  color: orange;
+}
+
+p {
+  color: white;
+}
